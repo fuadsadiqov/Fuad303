@@ -1,4 +1,3 @@
-<img align="center" width="600" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <h1 align="center">Hi 👋, I'm Fuad</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
